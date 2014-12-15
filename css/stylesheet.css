@@ -274,7 +274,7 @@ section h3.section-subheading {
     visibility: hidden;
 }
 
-@media(min-width:1000px) {
+@media(min-width:1200px) {
     .line {
         visibility: visible;
         height: 5px;
@@ -282,7 +282,7 @@ section h3.section-subheading {
         background-color: #50E3C2;
         display: inline-block;
         border-radius: 20px;
-        margin-top: 6px;
+        margin-top: 10px;
         float: right;
     }
 }
@@ -291,7 +291,7 @@ section h3.section-subheading {
     visibility: hidden;
 }
 
-@media(min-width:1000px) {
+@media(min-width:1200px) {
     .line2 {
         visibility: visible;
         height: 5px;
@@ -299,7 +299,7 @@ section h3.section-subheading {
         background-color: #50E3C2;
         display: inline-block;
         border-radius: 20px;
-        margin-top: 6px;
+        margin-top: 10px;
         float: right;
     }
 }
