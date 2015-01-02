@@ -361,7 +361,7 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item .portfolio-caption {
     margin: 0 auto;
-    height: 265px;
+    height: 245px;
     padding: 25px;
     padding-top: 30px;
     padding-bottom: 40px;
@@ -369,6 +369,12 @@ section h3.section-subheading {
     text-align: center;
     background-color: #f7f7f7;
     font-family: "Vollkorn", "Roboto Serif";
+}
+
+@media (max-width: 1200px) {
+    #portfolio .portfolio-item .portfolio-caption {
+        height: 275px;
+    }
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
