@@ -148,8 +148,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-modal {
     padding-top: 6px;
     text-align: center;
-    margin: 0 auto;
-    margin: 50px;
+    margin: 50px auto;
     float: center;
     background-color: #fff;
 }
